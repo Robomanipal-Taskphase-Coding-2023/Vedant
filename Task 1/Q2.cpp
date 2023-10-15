@@ -4,7 +4,7 @@
 using namespace std;
 
 /* Q2 Vedant Agarwal 
-Function to multiply two matrices
+Code to multiply two matrices
 */
 vector<vector<int>> multiplyMatrices(const vector<vector<int>>& matrix1, const vector<vector<int>>& matrix2) {
   size_t rows1 = matrix1.size();
