@@ -5,7 +5,7 @@ using namespace std;
 
 /*
 Q3 Vedant Agarwal
-Function to replace rows and columns with zeroes
+Code to replace rows and columns with zeroes
 */
 void replace(vector<vector<int>>& matrix) {
   size_t rows = matrix.size();
